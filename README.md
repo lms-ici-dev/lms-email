@@ -1,6 +1,6 @@
 # lms-email
 
-<h3 styles: color="red;">Notes for Juli  : <h3>
+## Notes for Juli  :
 
 #### Jullss Jangan lupa masukin GA Codenya ke masing2 link yang akan di tembakin ya nanti dia biar ke track
 
